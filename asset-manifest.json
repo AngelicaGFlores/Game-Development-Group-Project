@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Game-Development-Group-Project/static/css/main.07774ee3.chunk.css",
+    "main.js": "/Game-Development-Group-Project/static/js/main.20136ccb.chunk.js",
+    "main.js.map": "/Game-Development-Group-Project/static/js/main.20136ccb.chunk.js.map",
+    "runtime-main.js": "/Game-Development-Group-Project/static/js/runtime-main.c218de9c.js",
+    "runtime-main.js.map": "/Game-Development-Group-Project/static/js/runtime-main.c218de9c.js.map",
+    "static/css/2.8e1df220.chunk.css": "/Game-Development-Group-Project/static/css/2.8e1df220.chunk.css",
+    "static/js/2.c4285873.chunk.js": "/Game-Development-Group-Project/static/js/2.c4285873.chunk.js",
+    "static/js/2.c4285873.chunk.js.map": "/Game-Development-Group-Project/static/js/2.c4285873.chunk.js.map",
+    "index.html": "/Game-Development-Group-Project/index.html",
+    "precache-manifest.8f6186e87296d96b68e2189d3c42867a.js": "/Game-Development-Group-Project/precache-manifest.8f6186e87296d96b68e2189d3c42867a.js",
+    "service-worker.js": "/Game-Development-Group-Project/service-worker.js",
+    "static/css/2.8e1df220.chunk.css.map": "/Game-Development-Group-Project/static/css/2.8e1df220.chunk.css.map",
+    "static/css/main.07774ee3.chunk.css.map": "/Game-Development-Group-Project/static/css/main.07774ee3.chunk.css.map",
+    "static/media/font-awesome.min.css": "/Game-Development-Group-Project/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c218de9c.js",
+    "static/css/2.8e1df220.chunk.css",
+    "static/js/2.c4285873.chunk.js",
+    "static/css/main.07774ee3.chunk.css",
+    "static/js/main.20136ccb.chunk.js"
+  ]
+}
