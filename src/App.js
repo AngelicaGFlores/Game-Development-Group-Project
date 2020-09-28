@@ -13,7 +13,7 @@ import Home from './Components/Home';
 function App() {
   
   return (
-    <Router>
+    <Router basename={`${process.env.PUBLIC_URL}/`}>
 
     <div className="App">
       <header className="App-header">
@@ -25,8 +25,8 @@ function App() {
           {/* since we are using switch, it will be changed all the time when ever we click navi menu */}
         <Route exact path="/" component={Home}/>
         <Route exact path="/home" component={Navi}/>
-        <Route path="/game" component={Game}/> 
-        <Route path="/profile" component={Profile}/> 
+        <Route exact path="/game" component={Game}/>
+        <Route exact path="/profile" component={Profile}/>
       </Switch>
       </div>
     
